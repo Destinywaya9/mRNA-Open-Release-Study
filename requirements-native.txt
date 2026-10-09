@@ -1,0 +1,3 @@
+# Optional native folding observer only. Offline validation needs no packages.
+# Use the recorded Python 3.12.14 and exact model settings for native reproduction.
+ViennaRNA==2.7.2

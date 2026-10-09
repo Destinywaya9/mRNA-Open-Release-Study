@@ -1,0 +1,63 @@
+RESEARCH RIGHTS AND SOURCE USE TERMS
+
+Research author and rights holder: Destiny Machwaya.
+Copyright © 2015–2026 Destiny Machwaya. All rights reserved.
+
+Original RNA research packet rights notice, 19 September 2026:
+Authored and owned by Destiny Machwaya. All rights retained.
+
+The following author-supplied terms are reproduced from the current
+QTET / QTL-Sphere monograph. The complete original PDF is included at:
+framework_source/QTET_QTL_Sphere_Complete_Monograph_Publication_Release_DOI_Final (1)(20261008-230839).pdf
+Its DOI, ISBN, and other book identifiers identify the monograph, not this
+RNA release. See PUBLICATION_METADATA.json for release identification.
+
+SOURCE TEXT — MONOGRAPH PDF PAGE 2
+
+Attribution and Non-Weaponization Terms
+Copyright © 2015-2026 Destiny Machwaya. Published by Lei A While Research Center.
+ISBN: 979-8-234-10862-3
+Library of Congress Control Number: 2026913106
+Crossref DOI:
+This work is made available for research, study, citation, discussion, teaching, analysis, and lawful non-harmful use 
+under two continuing requirements: attribution and non-weaponization.
+I. Attribution and Citation Required
+Any use, quotation, summary, figure reference, dataset reference, conceptual reference, implementation discussion, or 
+derivative scholarly discussion must clearly attribute the work to Destiny Machwaya and cite the relevant volume. 
+Citation should include the author, title, volume, publisher, year, and DOI or official publication landing page once 
+assigned.
+Suggested citation: Machwaya, D. (2026). Quantum Time-Energy Theory: A First-Principles Monograph on 
+Coherence, Temporal Ordering, and Cosmological Structure. Complete Integrated Publication Release. Lei 
+A While Research Center. ISBN: 979-8-234-10862-3. DOI:
+II. Non-Weaponization Requirement
+This work may not be used to design, develop, optimize, deploy, support, or justify weapons, weaponized systems, 
+coercive surveillance, targeting systems, harmful autonomous systems, or any application intended to injure, exploit, 
+suppress, or endanger people or civilian life.
+All other good-faith research and non-harmful use is permitted subject to these two requirements.
+Non-Weaponization and Civilian-First Ethical Statement
+This entire body of work is developed and released under a strict civilian-first, non-harm, and non-weaponization 
+framework. All applications are intended for scientific, humanitarian, and constructive technological advancement only. 
+No rights, licenses, or permissions are granted for any military, defense, or harmful use. The author retains full 
+authorship, provenance, and ethical stewardship of the QTET framework, Tensor P2/P3 kernels, Echo Meridian, QTL-
+Sphere topology, and all derived extensions including RIPAS.
+10.67272/qtet-monograph-2026
+10.67272/qtet-monograph-2026
+
+
+SOURCE TEXT — MONOGRAPH PDF PAGE 205
+
+Mandatory Attribution
+Any citation, reference, discussion, excerpt, reuse, analysis, summary, derivative discussion, 
+educational use, technical use, or public mention of this work must attribute QTET, QTL-Sphere, 
+Tensor P2, Tensor P3, the Echo Meridian, and all associated terminology and structures to 
+Destiny Machwaya as the sole originator and author.
+Ethical and Use Boundary
+This work is developed and released under a civilian-first, non-harm, and non-weaponization 
+boundary. Authorized purposes are limited to scientific, humanitarian, medical, protective, 
+preservation-oriented, environmental, educational, and constructive technological applications.
+Military, coercive, surveillance, weaponized, exploitative, or harmful uses are outside the 
+authorized purpose of this work.
+Scientific Standard
+The framework is to be evaluated by its invariant forms, stated predictions, falsifiability 
+conditions, experimental behavior, and ability to survive valid challenge without rescue, tuning, 
+or reinterpretive protection. Personal background is not offered as evidence.

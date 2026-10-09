@@ -1,0 +1,13 @@
+QTET Tensor P2/P3 mRNA Intervention-Reversion: Source-Aligned Computational Release
+Destiny Machwaya
+Version 1.0.0 | 2026-10-08
+
+This release presents Destiny Machwaya's complete computational Tensor P2/P3 mRNA intervention-reversion study with corrected source-aligned acceptance checks. Tensor P2 is the supplied invariant engineered operator and law; every nucleotide carrier retains its complete traversal within the three-component P3 relation. Eight authentic pathogenic single-nucleotide lanes include TP53 R175H as the primary cancer-facing system. The release preserves 40 native full-transcript ViennaRNA 2.7.2 measurements at 37 °C, 24 complete P2 ledgers, 192 carrier/state rows, and 1,600 post-return Delay checks. All eight lanes return to exact reference sequence, selected fold, and MFE identity. Forty-eight numerical endpoint comparisons and all 192 source state rows match the original research packet. The corrected software gate rejects five demonstrated defects accepted by the earlier validator; 42,853 comparisons across nine source test families have zero disagreements. No-intervention false positives remain visible: fold-only 4/8, MFE-only 2/8, fold-plus-MFE 2/8, and complete closure 0/8. The original cell → tissue-fold → organoid protocol and empty biological measurement templates are retained. Public packaging adds no new RNA folds or biological measurements.
+
+Keywords: QTET; Tensor P2; Tensor P3; mRNA; intervention-reversion;
+TP53 R175H; full-transcript folding; source correspondence; falsification;
+Delay(200); EchoLift; RosenEcho.
+
+Related governing publication: DOI 10.67272/qtet-monograph-2026.
+Release DOI: not assigned. The monograph DOI is not this dataset's DOI.
+Research rights: Destiny Machwaya; author-supplied terms in LICENSE.txt.

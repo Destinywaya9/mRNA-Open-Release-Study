@@ -1,0 +1,56 @@
+{
+  "title": "QTET Tensor P2/P3 mRNA Intervention-Reversion: Source-Aligned Computational Release",
+  "version": "1.0.0",
+  "release_date": "2026-10-08",
+  "resource_type": "Computational research data and software",
+  "creator": {
+    "name": "Destiny Machwaya",
+    "sole_research_author": true,
+    "rights_holder": true
+  },
+  "publication_entity": {
+    "name": "Lei A While Research Center",
+    "owns_research_IP": false
+  },
+  "language": "English",
+  "description": "This release presents Destiny Machwaya's complete computational Tensor P2/P3 mRNA intervention-reversion study with corrected source-aligned acceptance checks. Tensor P2 is the supplied invariant engineered operator and law; every nucleotide carrier retains its complete traversal within the three-component P3 relation. Eight authentic pathogenic single-nucleotide lanes include TP53 R175H as the primary cancer-facing system. The release preserves 40 native full-transcript ViennaRNA 2.7.2 measurements at 37 °C, 24 complete P2 ledgers, 192 carrier/state rows, and 1,600 post-return Delay checks. All eight lanes return to exact reference sequence, selected fold, and MFE identity. Forty-eight numerical endpoint comparisons and all 192 source state rows match the original research packet. The corrected software gate rejects five demonstrated defects accepted by the earlier validator; 42,853 comparisons across nine source test families have zero disagreements. No-intervention false positives remain visible: fold-only 4/8, MFE-only 2/8, fold-plus-MFE 2/8, and complete closure 0/8. The original cell → tissue-fold → organoid protocol and empty biological measurement templates are retained. Public packaging adds no new RNA folds or biological measurements.",
+  "keywords": [
+    "QTET",
+    "Tensor P2",
+    "Tensor P3",
+    "mRNA",
+    "intervention-reversion",
+    "TP53 R175H",
+    "source correspondence",
+    "Delay(200)",
+    "EchoLift",
+    "RosenEcho"
+  ],
+  "rights": {
+    "notice": "Copyright © 2015–2026 Destiny Machwaya. All rights reserved.",
+    "terms_file": "LICENSE.txt",
+    "terms_status": "Exact source attribution/use terms retained"
+  },
+  "release_DOI": null,
+  "release_repository_URL": null,
+  "related_publication": {
+    "DOI": "10.67272/qtet-monograph-2026",
+    "relation": "Governing framework source",
+    "file": "framework_source/QTET_QTL_Sphere_Complete_Monograph_Publication_Release_DOI_Final (1)(20261008-230839).pdf"
+  },
+  "measurement_counts": {
+    "native_fold_frames_retained": 40,
+    "complete_P2_ledgers": 24,
+    "component_state_rows": 192,
+    "Delay_records": 1600,
+    "new_RNA_folds_for_public_packaging": 0
+  },
+  "gate_replay": {
+    "source_comparisons": 42853,
+    "disagreements": 0,
+    "demonstrated_faults_rejected": 5,
+    "intact_lanes_accepted": 8
+  },
+  "physical_biological_measurements_added": 0,
+  "AI_assistance": "Operational software preparation, validation, source comparison, documentation, and packaging; no AI authorship"
+}

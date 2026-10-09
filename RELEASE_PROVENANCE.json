@@ -1,0 +1,790 @@
+{
+  "release_version": "1.0.0",
+  "release_date": "2026-10-08",
+  "source_continuation_archive": {
+    "filename": "QTET_RNA_Source_Aligned_Continuation_20261008.zip",
+    "sha256": "cd74daff48e0026b476cb060a01bb50114cf8c101d252da96bd04aac5c160616",
+    "unchanged_member_count": 190,
+    "all_members_byte_identical": true,
+    "members": [
+      {
+        "path": "study/Delivered_Validator_Findings.json",
+        "sha256": "0f5287bcb72591bca819d7ff9866630b697d7658d3837c7811d85ec577b539d8"
+      },
+      {
+        "path": "study/Provenance_QA.json",
+        "sha256": "4654f6deca921e09768c13e77f80cdc88f91df19afbd972ef24423d078254939"
+      },
+      {
+        "path": "study/QTET_RNA_Source_Correspondence_20261008.html",
+        "sha256": "ff7635fa2380aaa72c6bfdc869a272ce61929b36c30b29aa0c7044e556af83ee"
+      },
+      {
+        "path": "study/QTET_RNA_Source_Correspondence_20261008.ipynb",
+        "sha256": "b09ccbc0d51f32e74af1f2ea7e3d2506dcc2dcbef748cc0e8997c61883b777aa"
+      },
+      {
+        "path": "study/QTET_RNA_Source_Correspondence_20261008.md",
+        "sha256": "e49c410e2ab1e7dfbf6b22e0d3cb5a803f7388efcdac5f62926fa433d6c331c1"
+      },
+      {
+        "path": "study/README.md",
+        "sha256": "66f79112306ac520820a3155e473bb82a758800ee0eec6e9e1a228d3a927b2f8"
+      },
+      {
+        "path": "study/build_correspondence_notebook.py",
+        "sha256": "c155f96afae438a5afc150cea69ea3fad9663b46ce28a44f6418064819388192"
+      },
+      {
+        "path": "study/cancer_packet/Assault_Key_Counts.json",
+        "sha256": "533d85f550f99281ffa4cfb857d2c2def663d23ae4f6671303d237e8d09ba7f6"
+      },
+      {
+        "path": "study/cancer_packet/Cancer_Center_Preclinical_P2P3_Validation_Protocol_v1.html",
+        "sha256": "9b8ca38cc5b743c226bd198c21297225e8fc60c6e298ee13301bb5a529c8c046"
+      },
+      {
+        "path": "study/cancer_packet/Cancer_Center_Preclinical_P2P3_Validation_Protocol_v1.ipynb",
+        "sha256": "794cb44c85e7539662e0b27cfc3b8e7be2bc138675be3f4b718b331996381c90"
+      },
+      {
+        "path": "study/cancer_packet/Closure_Channel_False_Positive_Falsifier.csv",
+        "sha256": "17c751e60f189d6d5c8c2e3a85497e97ff068d1998629021189ccea3b903c5a2"
+      },
+      {
+        "path": "study/cancer_packet/Delay200_Shannon_Identity_DualGate_Falsifier.csv",
+        "sha256": "502259931bb5c5ad1df3337dbd355a83650a5a00365bd7bff0bac390ca3a8799"
+      },
+      {
+        "path": "study/cancer_packet/Destiny_Machwaya_QTET_P2P3_Cancer_Center_Research_Brief_2026-09-19.docx",
+        "sha256": "dfd736f278802a5ecbef62a324cb949eb5e07a349fe9195c18a0f48daddad731"
+      },
+      {
+        "path": "study/cancer_packet/Destiny_Machwaya_QTET_P2P3_Cancer_Center_Research_Brief_2026-09-19.pdf",
+        "sha256": "732ce95f53cc86c88dd6aa3700c383336e63ead41f2c94be402e09a81b1279b0"
+      },
+      {
+        "path": "study/cancer_packet/EchoLift_RosenEcho_24_Ledger_Identity.csv",
+        "sha256": "ed029bb0915cab69293192aeca2959004b8ef4814a515266fbdbc32ae1d8a3db"
+      },
+      {
+        "path": "study/cancer_packet/Full_P2P3_Intervention_Reversion_Summary.csv",
+        "sha256": "66e8e3a02eb2e5414a1026fd631be3e32a74b304a84af9202d57309018622064"
+      },
+      {
+        "path": "study/cancer_packet/Full_P2P3_State_Trajectories.csv",
+        "sha256": "8bc17dfd74bcc78f16c180d4f3d6ab41db3a5f25168a4235fdb45603d42e1bfe"
+      },
+      {
+        "path": "study/cancer_packet/Intervention_Reversion_Persistence_Atlas_16.csv",
+        "sha256": "dfc75b7194c2a12084071040fbb92d94a37ba59456d4b5a3357bb719acf17fe3"
+      },
+      {
+        "path": "study/cancer_packet/Intervention_Reversion_Timing_Atlas.csv",
+        "sha256": "abb1fce368bbc4f90bd17b0c70f89a69ded7c3265da03cbfadffa0dcb7d91d40"
+      },
+      {
+        "path": "study/cancer_packet/P2P3_Structural_Removal_CrossProduct_2048.csv",
+        "sha256": "71c3128ba77bdb6504716d773d61edebe3f7322e032dba07fc08a9ef9fadef48"
+      },
+      {
+        "path": "study/cancer_packet/P2_Full_State_Order_Atlas_40320.csv",
+        "sha256": "2aa3b279a2886cb0fd0dbf64b5c742c91a499053703919af681de6804f0859b8"
+      },
+      {
+        "path": "study/cancer_packet/P2_State_Removal_Atlas_256.csv",
+        "sha256": "09cbfbf4c831c6bfac6b57a5907d14a56dd0f92f3703cf95f148b59436b86c64"
+      },
+      {
+        "path": "study/cancer_packet/P3_24_Full_P2_Ledgers_192_StateRows.csv",
+        "sha256": "c885a12fe8e95498ca8df649ccf8e47ce55411787e4da229427a08dbee4a0855"
+      },
+      {
+        "path": "study/cancer_packet/P3_Component_Removal_Atlas_8.csv",
+        "sha256": "d207a6d3c385c61c1e292366fa28cd0573f4075020abef4e3ed2fb5df707b4d2"
+      },
+      {
+        "path": "study/cancer_packet/PACKET_SHA256.txt",
+        "sha256": "656befc8cf4c005a8d073d68fc4477ab712768acde52d87ea36f4f922c4ef80c"
+      },
+      {
+        "path": "study/cancer_packet/QTET_mRNA_Full_P2P3_Intervention_Reversion_Assault_v2_EXECUTED.ipynb",
+        "sha256": "525fb696438adf5939d2cd7dd189cb723ad6e4bb9803e4723b9336966fb30588"
+      },
+      {
+        "path": "study/cancer_packet/READ_ME_FIRST.txt",
+        "sha256": "55c03500e5d3106b5d599f5fb1e3064cadd86f732c8eeaec94d29fadf8021ef1"
+      },
+      {
+        "path": "study/cancer_packet/preclinical_closure_template.csv",
+        "sha256": "4edf9daf288b837f8fbb25e243e937a6ee26085ec19b1ba6531bfec0c3f7a263"
+      },
+      {
+        "path": "study/cancer_packet/preclinical_endpoint_registry_template.csv",
+        "sha256": "b731be4d3b446cb556c46e0f3066ee66a0f05b8205a9558db07b59937b560c3f"
+      },
+      {
+        "path": "study/cancer_packet/preclinical_implementation_registry_template.csv",
+        "sha256": "735a49d39e01ea7886055c411e38d4b6606b70f7dedc756fe783973072be08d6"
+      },
+      {
+        "path": "study/cancer_packet/preclinical_measurements_template.csv",
+        "sha256": "bd5f6a9aacb09e09bfc189b972f260d4a42a1520f1dd8245912fb9462bd3a530"
+      },
+      {
+        "path": "study/corrected_runner_execution.log",
+        "sha256": "0750b4079408f167617f38c351cdfe4aa488c0136cdc557d5a61441c9d5b4f59"
+      },
+      {
+        "path": "study/correspondence_notebook_execution.log",
+        "sha256": "4f1d8bc169f152f038c4fcdad824d274488ff65cde9e2372431271d6a3c80be6"
+      },
+      {
+        "path": "study/correspondence_outputs/Corrected_Architecture_Gate_Replay.csv",
+        "sha256": "77436ad4467a645157c6860b2c38f9873f9781ae380ec00b88cdde8403012c96"
+      },
+      {
+        "path": "study/correspondence_outputs/Corrected_Closure_Validation.json",
+        "sha256": "074ddfb7955bd4f2bf4e8e547b8698cf7a25f842bf1709a8e84488e6776d5352"
+      },
+      {
+        "path": "study/correspondence_outputs/Corrected_Omission_Frame_Replay.csv",
+        "sha256": "329bbcb6868523f7df4393cb8273097ac776f2a7ca2d46273431219bcd154f42"
+      },
+      {
+        "path": "study/correspondence_outputs/Corrected_Persistence_Frame_Replay.csv",
+        "sha256": "b998e959c10f648ca6e8e9f674068858e09c1581c365346834a011aa0444a55b"
+      },
+      {
+        "path": "study/correspondence_outputs/Corrected_Shannon_Identity_Replay.csv",
+        "sha256": "053050193c5b91bdb56fd016c3d1eb23ae73f79533bf306147a952f51dca25f3"
+      },
+      {
+        "path": "study/correspondence_outputs/Corrected_Timing_Event_Replay.csv",
+        "sha256": "88ee3a433ea10099966e4928c649adb90c4d97b7ab6a2532c86dd3f7c6ffeb93"
+      },
+      {
+        "path": "study/correspondence_outputs/Correspondence_Summary.json",
+        "sha256": "f2f557cd56224619f43d1f50630990a90fb15af2a876eaaf1ae8cc2564f3755c"
+      },
+      {
+        "path": "study/correspondence_outputs/Delivered_Defect_Regression.csv",
+        "sha256": "3b5ffb84ff231d3ff630990493c9878d64486347c5d0ae1999ecefb13189eab3"
+      },
+      {
+        "path": "study/correspondence_outputs/EchoLift_RosenEcho_Source_and_Event_Check.csv",
+        "sha256": "39194b92503b17a5a7fba3c1954ab5b589626dfaf9d0de31242c10767a697e81"
+      },
+      {
+        "path": "study/correspondence_outputs/Full_Source_Falsifier_Gate_Summary.csv",
+        "sha256": "6f423ad1e42fe8a35c1ffee03573e214c8aa4639413626109e23f1027af26c48"
+      },
+      {
+        "path": "study/correspondence_outputs/Inherited_Source_Artifact_Mapping.csv",
+        "sha256": "fa351536d736b0c8b6bf75887f484a5fe5858c23d836c61b0dde64c03069004a"
+      },
+      {
+        "path": "study/correspondence_outputs/Measured_Source_Endpoint_Comparison.csv",
+        "sha256": "4f05c32d73e76ffa5ba16d74821dea08ee97c9c6ac09c1c1eac022576e78085c"
+      },
+      {
+        "path": "study/correspondence_outputs/Runner_Acceptance.json",
+        "sha256": "074ddfb7955bd4f2bf4e8e547b8698cf7a25f842bf1709a8e84488e6776d5352"
+      },
+      {
+        "path": "study/correspondence_outputs/Source_Compatible_192_State_Ledger.csv",
+        "sha256": "2090dba2674929c8a12d9a596d3d31bad987b99a5c85003c58ab146e299a15e1"
+      },
+      {
+        "path": "study/inherited_v2/Assault_Key_Counts.json",
+        "sha256": "533d85f550f99281ffa4cfb857d2c2def663d23ae4f6671303d237e8d09ba7f6"
+      },
+      {
+        "path": "study/inherited_v2/Closure_Channel_False_Positive_Falsifier.csv",
+        "sha256": "17c751e60f189d6d5c8c2e3a85497e97ff068d1998629021189ccea3b903c5a2"
+      },
+      {
+        "path": "study/inherited_v2/Closure_False_Positive_Attack.png",
+        "sha256": "1b607b1b2632a5c07e39b7379da1a5324509880455fbb0b1326c4ddc84d25ebb"
+      },
+      {
+        "path": "study/inherited_v2/Delay200_Shannon_Identity_DualGate_Falsifier.csv",
+        "sha256": "502259931bb5c5ad1df3337dbd355a83650a5a00365bd7bff0bac390ca3a8799"
+      },
+      {
+        "path": "study/inherited_v2/EchoLift_RosenEcho_24_Ledger_Identity.csv",
+        "sha256": "ed029bb0915cab69293192aeca2959004b8ef4814a515266fbdbc32ae1d8a3db"
+      },
+      {
+        "path": "study/inherited_v2/FULL_P2P3_INTERVENTION_ASSAULT_REPORT.md",
+        "sha256": "8a908893af4d6896b52ab79631e5d17e63efd40ca2c3a5e9e862e9e57eb47278"
+      },
+      {
+        "path": "study/inherited_v2/Full_P2P3_Intervention_Reversion_Summary.csv",
+        "sha256": "66e8e3a02eb2e5414a1026fd631be3e32a74b304a84af9202d57309018622064"
+      },
+      {
+        "path": "study/inherited_v2/Full_P2P3_State_Trajectories.csv",
+        "sha256": "8bc17dfd74bcc78f16c180d4f3d6ab41db3a5f25168a4235fdb45603d42e1bfe"
+      },
+      {
+        "path": "study/inherited_v2/Full_P2P3_State_Trajectory.png",
+        "sha256": "505b718dfb9dd699312ffedc8bd5b75ec1fe42aace900baff8d45fe82572f8b2"
+      },
+      {
+        "path": "study/inherited_v2/Intervention_BP_Reversion.png",
+        "sha256": "09cb5e4aa83766a4e91f40733397103d0de8f5ac923dd770ef94277d83d8eb33"
+      },
+      {
+        "path": "study/inherited_v2/Intervention_MFE_Reversion.png",
+        "sha256": "442502016cd0f98d3af0cc12d79efc6d72645041562ab45adc9145aa514a6aa8"
+      },
+      {
+        "path": "study/inherited_v2/Intervention_Reversion_Persistence_Atlas_16.csv",
+        "sha256": "dfc75b7194c2a12084071040fbb92d94a37ba59456d4b5a3357bb719acf17fe3"
+      },
+      {
+        "path": "study/inherited_v2/Intervention_Reversion_Timing_Atlas.csv",
+        "sha256": "abb1fce368bbc4f90bd17b0c70f89a69ded7c3265da03cbfadffa0dcb7d91d40"
+      },
+      {
+        "path": "study/inherited_v2/P2P3_Structural_Removal_CrossProduct_2048.csv",
+        "sha256": "71c3128ba77bdb6504716d773d61edebe3f7322e032dba07fc08a9ef9fadef48"
+      },
+      {
+        "path": "study/inherited_v2/P2_Full_State_Order_Atlas_40320.csv",
+        "sha256": "2aa3b279a2886cb0fd0dbf64b5c742c91a499053703919af681de6804f0859b8"
+      },
+      {
+        "path": "study/inherited_v2/P2_State_Removal_Atlas_256.csv",
+        "sha256": "09cbfbf4c831c6bfac6b57a5907d14a56dd0f92f3703cf95f148b59436b86c64"
+      },
+      {
+        "path": "study/inherited_v2/P3_24_Full_P2_Ledgers_192_StateRows.csv",
+        "sha256": "c885a12fe8e95498ca8df649ccf8e47ce55411787e4da229427a08dbee4a0855"
+      },
+      {
+        "path": "study/inherited_v2/P3_Component_Removal_Atlas_8.csv",
+        "sha256": "d207a6d3c385c61c1e292366fa28cd0573f4075020abef4e3ed2fb5df707b4d2"
+      },
+      {
+        "path": "study/inherited_v2/QTET_mRNA_Full_P2P3_Intervention_Colab_v3.ipynb",
+        "sha256": "6313d9a89fdbaf3a73bd35e60f832e5df8756c7f70b25c048c48f405a2240f5b"
+      },
+      {
+        "path": "study/inherited_v2/QTET_mRNA_Full_P2P3_Intervention_Reversion_Assault_v2.html",
+        "sha256": "aaa9af68b1282f7eb1ff4195c46f8c8b5ef39280d09588105d21568d6078a96c"
+      },
+      {
+        "path": "study/inherited_v2/QTET_mRNA_Full_P2P3_Intervention_Reversion_Assault_v2.ipynb",
+        "sha256": "b88ea8ca2baea9549d6c124ef331da705794444e62063e73ab918a8b7bf1cad3"
+      },
+      {
+        "path": "study/inherited_v2/README.md",
+        "sha256": "5de551cafc10aee5b0b7e6e6c95cafb0246496dd291ac80678383f94b1f3774c"
+      },
+      {
+        "path": "study/inherited_v2/SHA256SUMS.txt",
+        "sha256": "b34a7ef63c385f1b13fa4d578014b802cf7952eec956f409b3e3cfeafaae11df"
+      },
+      {
+        "path": "study/inherited_v2/SOURCE_PROVENANCE.txt",
+        "sha256": "f2e5895914fe0b45beae2e434505ec6cfc25e1ede346a104b555b64b4c14ea99"
+      },
+      {
+        "path": "study/inherited_v2/Source_Executed_Cross_Pathology_Results.csv",
+        "sha256": "af7c80e0910fd21362b631d5ce6f56f16c7192e1f8a07bc17d4dc1e547fbde73"
+      },
+      {
+        "path": "study/inherited_v2/Whole_Work_Full_P2P3_Method_Mapping.csv",
+        "sha256": "79b53b72f73c76331fa20b2f9018003dd0250b4b90f56e33a805e78e9bdd06fe"
+      },
+      {
+        "path": "study/rna_run/METHOD_CORRECTION.md",
+        "sha256": "2971c15b2841dfe696f083842c092e5fa1ab746984de97a20af4622f8dfc5038"
+      },
+      {
+        "path": "study/rna_run/QTET_mRNA_Coupled_Reversion_Rerun_20261008.html",
+        "sha256": "2f728e79796919e91a8a0a1ef207d040480a88be6230a77f134ae92f9a03507b"
+      },
+      {
+        "path": "study/rna_run/QTET_mRNA_Coupled_Reversion_Rerun_20261008.ipynb",
+        "sha256": "d4a07eecc0d5426ff63659d96a33c5b8c90b042f50f699f1174054d93f53e8d0"
+      },
+      {
+        "path": "study/rna_run/QTET_mRNA_Coupled_Reversion_Results_20261008.md",
+        "sha256": "e9c25be4c95ab1a6e073e97bea005acc74d0e4a95e69a32c05517fc2eb08b7f1"
+      },
+      {
+        "path": "study/rna_run/README.md",
+        "sha256": "c2df216aa00bda46d807a126ea7c9b653ba331a353e8e0e995f32795a6658ed2"
+      },
+      {
+        "path": "study/rna_run/SHA256SUMS.txt",
+        "sha256": "9250220644ee31554fc8fcdc6f26f3104ec9f66b377830de2fb443aa52f70226"
+      },
+      {
+        "path": "study/rna_run/build_rerun_notebook.py",
+        "sha256": "a9b97c37696e90acd836ab5ad7b49047a4281521c0692f5bd752917e71a65b48"
+      },
+      {
+        "path": "study/rna_run/check_execution_binding.py",
+        "sha256": "4c508c3979b5285efaad56af7c372e8cdcaa2eb2ff5ac637727b0b6d5ca4cc21"
+      },
+      {
+        "path": "study/rna_run/coupled_rna_runner.py",
+        "sha256": "7454028a0467e0aef3ddab0fcbca9bb5e376069e0e75f1c1ccf52c07421dc27d"
+      },
+      {
+        "path": "study/rna_run/environment.json",
+        "sha256": "cdecc99a0e99e5c3781a4e3f6ab06b2977c361f39289fe7978e765186f12bd14"
+      },
+      {
+        "path": "study/rna_run/finalize_notebook.py",
+        "sha256": "59c9113873f65956cb9c68554caa9c624c9a0fe0136a093649610f736ff466fa"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000157.4.gb",
+        "sha256": "59ed70688b2ebba65cbdc0b9c9a81dbbe1eed16f2d1a827421842b6f3e98d6dd"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000157.4.reference.fasta",
+        "sha256": "b42de03f5b41caa4666f94241b512fb090226f6ceb40696c1eed1d3f8635e5c0"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000277.3.gb",
+        "sha256": "b1a40b823df36bed96c11b6834e1feb233ddc69be6d38736554dbfbb8cf38fca"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000277.3.reference.fasta",
+        "sha256": "fde8c25a8c2c3f397bc058ede1ebcba0075f9af304a0f9468c4c50427a4984b0"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000371.4.gb",
+        "sha256": "20ac4e31ccfc1c4cf13fd3d6136a8b08c11920a5fc94797cb61b8d5d199de134"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000371.4.reference.fasta",
+        "sha256": "45309d1496653950971bc50d9b35795969d11de3baf626dd2a77f6f6569a3276"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000410.4.gb",
+        "sha256": "de4427017784af2de63be4ae786e875b9d1737d7713db0790c2849572afb06ce"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000410.4.reference.fasta",
+        "sha256": "f3c6e8d322e3bfa4157df5949e6cfb4b75e4565a4ae5a2a8138f02e418c89f74"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000518.5.gb",
+        "sha256": "c114b998f526a13ce7029a484f7d2679de9bc9f50a533d6e86ce5e644ca6c5d9"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000518.5.reference.fasta",
+        "sha256": "e845543a0e8d232d3c318d509acf11f173ed3d64650775215b208ed992945006"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000546.6.gb",
+        "sha256": "c14355676c0755f9e552a398f2545c2a0c2ebe889a038f913858df7eebe92be7"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_000546.6.reference.fasta",
+        "sha256": "39a07a2f908ee5a5d217b63a4a58dd76ffbfcff28f510486852671604ed0cee8"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_004992.3.gb",
+        "sha256": "113779c844e24cc03f0bf257278173fa8b0789b2c1bd99aa886ccd5ca5c2e280"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_004992.3.reference.fasta",
+        "sha256": "b71e29d00b71cd9fe4e035f4e00a7d94a1d660b2867ea978477960e29389910e"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_170707.4.gb",
+        "sha256": "59f376fc71f3ef35de9be9405e81499368e8abb77a06a1e06d9e9d8b0e6557d2"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/NM_170707.4.reference.fasta",
+        "sha256": "0916675b6c16f0ef48b02fa89031d268a138fd57c3c61dd73e0b48d83bfdf63c"
+      },
+      {
+        "path": "study/rna_run/frozen_inputs/panel.json",
+        "sha256": "7c882e0446f10e2bad73d5bbcb5c24447cc7be805c43d1b98a677096bd4fe963"
+      },
+      {
+        "path": "study/rna_run/notebook_execution.log",
+        "sha256": "61e4abf69f16070fdb078aa2220d9fa9272c945e60beeb31953e4a05eaafa1c1"
+      },
+      {
+        "path": "study/rna_run/notebook_execution_completed.log",
+        "sha256": "205779041c73182ad0388afe22a104dd65976e90a2c0ccf7530bf1c240173e1a"
+      },
+      {
+        "path": "study/rna_run/original_sources/QTET_mRNA_Cross_Pathology_Panel_v1 (1).ipynb",
+        "sha256": "9d1b9838541de160a98abd176ae9dfcefa90cd4b2b6bd5c48b3d65b26260f057"
+      },
+      {
+        "path": "study/rna_run/original_sources/QTET_mRNA_Full_P2P3_Intervention_Colab_v3.ipynb",
+        "sha256": "6313d9a89fdbaf3a73bd35e60f832e5df8756c7f70b25c048c48f405a2240f5b"
+      },
+      {
+        "path": "study/rna_run/original_sources/QTET_mRNA_Full_P2P3_Intervention_Reversion_Assault_v2.ipynb",
+        "sha256": "b88ea8ca2baea9549d6c124ef331da705794444e62063e73ab918a8b7bf1cad3"
+      },
+      {
+        "path": "study/rna_run/original_sources/QTET_mRNA_Full_P2P3_Intervention_Reversion_Assault_v2.zip",
+        "sha256": "d2b5c0b9a3904cd9f9a5bf95f8fcec949d26ced9337401d71503356868154c72"
+      },
+      {
+        "path": "study/rna_run/outputs/Complete_P2P3_State_Ledgers.csv",
+        "sha256": "5809a896d0ca68f9fe97d49035707703be4641d206b937dfb99611ef77b7520a"
+      },
+      {
+        "path": "study/rna_run/outputs/Coupled_Delay200_Checks.csv",
+        "sha256": "7ad99ccdb71bccdb1b188ee57955fe9387ad101d78e71425cb8a47b525c65498"
+      },
+      {
+        "path": "study/rna_run/outputs/Coupled_Reversion_Summary.csv",
+        "sha256": "c9f38e41abeefb05995009b286109bcdd17b234889ac3cbaa600bc2fbe3bf015"
+      },
+      {
+        "path": "study/rna_run/outputs/GBA1_37C.json",
+        "sha256": "09b8ed1e585c422b083c6203d5b5dd4764957eb3453dd7227e2b6de01c7a98f5"
+      },
+      {
+        "path": "study/rna_run/outputs/HBB_37C.json",
+        "sha256": "8732ce2356f1f297c55d60bae808922413c0848e632f3f091ea097ca9fe45b28"
+      },
+      {
+        "path": "study/rna_run/outputs/HFE_37C.json",
+        "sha256": "1d553835a0834742af646ec8b33fe3a77c3d2049759a5152ded1610a90e88f87"
+      },
+      {
+        "path": "study/rna_run/outputs/Independent_Verification.json",
+        "sha256": "0033ba91787e5771d686b43c19e48f5c11582b72dda64be09a34804f55955e65"
+      },
+      {
+        "path": "study/rna_run/outputs/Joint_Molecular_State_Trajectories.csv",
+        "sha256": "f9605cbebd43338720099f6231f48271da57f0eb9fecb9740acea5f8ab1cfccb"
+      },
+      {
+        "path": "study/rna_run/outputs/LMNA_37C.json",
+        "sha256": "fb605c8db6229739bf838a728ee2e2dc57b028a036c8f269947565f9a6b23d62"
+      },
+      {
+        "path": "study/rna_run/outputs/MECP2_37C.json",
+        "sha256": "11a1d97bbd032836e5b877fee26148913ec803efac0d02b6c27294773eaf22c9"
+      },
+      {
+        "path": "study/rna_run/outputs/No_Intervention_Paired_Controls.csv",
+        "sha256": "0cdf0de58d3a78ccbb98934bacd7d27fde2e9e2a4129fcc137d7f3ffe0244bc4"
+      },
+      {
+        "path": "study/rna_run/outputs/PAH_37C.json",
+        "sha256": "b0f8b6c6ed5661f4273ff5fda3b1501dbe4f8966d2aff7ef9acb604288fe4373"
+      },
+      {
+        "path": "study/rna_run/outputs/Source_Reconciliation.csv",
+        "sha256": "64ef4adfd76da89895ef64e0fce02b1d6f535e44e8beaab7bcc71fc9e2cd744c"
+      },
+      {
+        "path": "study/rna_run/outputs/TP53_37C.json",
+        "sha256": "bfb0f1552fcd9a3a6ccbd4ceb2ddaab0c007450af851131b0423487351596f9a"
+      },
+      {
+        "path": "study/rna_run/outputs/TTR_37C.json",
+        "sha256": "ff900e4ebc55b41abeb85c9f7ac69ab6228c93fdad538ad5acdf3bddd9f20f2f"
+      },
+      {
+        "path": "study/rna_run/outputs/figures/Full_RNA_Measured_Energy_Return.png",
+        "sha256": "584c165b2beea54008ae31b81d70e3a2d0180c94b66011f77f7f4fa710c32263"
+      },
+      {
+        "path": "study/rna_run/outputs/figures/Full_RNA_Pairing_State_History.png",
+        "sha256": "6e11d819d12fabfa20e6d4520eaf4dd754e34a557277b3d32dcb1eb17873ee19"
+      },
+      {
+        "path": "study/rna_run/outputs/figures/Full_RNA_Sequence_State_History.png",
+        "sha256": "e37b2338325eb510ad5e8277ffc8c6d1fd171f5fdeb02b21cd210bbf900e9b1c"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/GBA1_37C_fold_1.json",
+        "sha256": "5773638370558a400bfd7005410bd4d54e9d4d3adb9c5ffa5521a6927de8daae"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/GBA1_37C_fold_2.json",
+        "sha256": "2d9e9725a62c7bb16958cedae65e4b324137b21437f356761ecca22dc50007a7"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/GBA1_37C_fold_3.json",
+        "sha256": "6ea8002e8b5e2d01d798349b14c20fb732bfe80ae72d6843a5439a3778545126"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/GBA1_37C_fold_4.json",
+        "sha256": "0f84dd49a81cf70ce1b602c9160fcbaae5de52e47e571d81eb26c0d2a923404b"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/GBA1_37C_fold_5.json",
+        "sha256": "ecbf080011ce7f3b75070d0b3940f8d265c160ff7aa5ee1f58fe3b161d5397d7"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HBB_37C_fold_1.json",
+        "sha256": "544cc03c5a2dc57e9355e484e69528ad9d295f50e071c9750afe90ae1a63f94d"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HBB_37C_fold_2.json",
+        "sha256": "682cc8c9eb0b3d9722af410c751f66bb812860f6540b1b321138421237e49dbe"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HBB_37C_fold_3.json",
+        "sha256": "87b236251c9125dc8328c8f326633b274f13f8acbce8d7ddbe1fe6c275cde18b"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HBB_37C_fold_4.json",
+        "sha256": "840017d2bf2831a1da2ddc3228cd2837a690728c06c5a517d2610c8bba1d1942"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HBB_37C_fold_5.json",
+        "sha256": "fc017666afd394c9096a34e912991fa30431bd58201ee577235aafc4aea97e59"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HFE_37C_fold_1.json",
+        "sha256": "c8b983fbb4410bbaba1ba5a662ef01e0b5db3ae244e100e4c2602e5cf7b29f08"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HFE_37C_fold_2.json",
+        "sha256": "446a9bcb023a5e7987834ce27c31e457acc39d5b92e0d763f08677e09b61899a"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HFE_37C_fold_3.json",
+        "sha256": "6fcd72b1a8ce6715a266897a171923662b82cfb50914731e420d329db1d41756"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HFE_37C_fold_4.json",
+        "sha256": "a29c2b51d67d526d58e9ec7ace2ac407d7cbdfd674f436574b2815090bab352f"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/HFE_37C_fold_5.json",
+        "sha256": "eaa5106e842e5b994308d8da0b72be4f807ab11fae41168b969c180ea787b93e"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/LMNA_37C_fold_1.json",
+        "sha256": "a0354c577273501258e027e4ccaca57f6e356c438c875588e7133945525d1070"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/LMNA_37C_fold_2.json",
+        "sha256": "71517f2d025ceadcbf13be56bdfab6c8d0c3afb939639d9dc77f08f9e58ec2b5"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/LMNA_37C_fold_3.json",
+        "sha256": "1ff3c0ec662c0e20d6269f398e7a5394a26545323572f64690c326af83ed98d3"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/LMNA_37C_fold_4.json",
+        "sha256": "841076dc681f4668f1eccc5924836e2db2c029e9aa7a60ebf40ad43872bee93e"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/LMNA_37C_fold_5.json",
+        "sha256": "7a12f57fb7582dc3b47a2c139942c5596a7f4991bf958d0795f4ba2b7f53d6b4"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/MECP2_37C_fold_1.json",
+        "sha256": "36bd800ab6a35370b883239ff7c219adbab2ee614d7a2bbfbe5e22f9037c99bb"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/MECP2_37C_fold_2.json",
+        "sha256": "ca142ade705b356ecb17205587c9c5346212ccea13beff5dd6a6c53f4a0a0aa1"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/MECP2_37C_fold_3.json",
+        "sha256": "4f7f6c09c6729e64e5f8bee5e5e6b910ff520c87301a15769c0214adefd29adb"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/MECP2_37C_fold_4.json",
+        "sha256": "a3fb09afbb3d5025586e9fc5e62871587452f2a990e1e5c588b3f8b3cab744ee"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/MECP2_37C_fold_5.json",
+        "sha256": "cb93aff12b85edd4d455dcb3bc999fc610a0ebede86902fb678bff9ad5d6d5ac"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/PAH_37C_fold_1.json",
+        "sha256": "2229eaf7414f25afe5a7b63d6a7735f9ba8b60088e26e345a370d39f754f3e95"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/PAH_37C_fold_2.json",
+        "sha256": "d260e6998640d2968095ea84be3eb5e09f4f69852e18765bf045c694e94c9c15"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/PAH_37C_fold_3.json",
+        "sha256": "0467caee87cf6505518279fe1186730a6552e3308bcbfe5c1b5f1e656d26d6e8"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/PAH_37C_fold_4.json",
+        "sha256": "83eba2a0288ff93e5acfb9d72aa103b859d705d6808f675d29be4af18ecc13b5"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/PAH_37C_fold_5.json",
+        "sha256": "2892f5781fa47bbdf887fc11e091164bcc91dd8c4ad1d8ebb4d9d761910a2902"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TP53_37C_fold_1.json",
+        "sha256": "59b220b68cdca53a0b56d495196c7a6b341eeb86e7995eb06acd8b2509d30b39"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TP53_37C_fold_2.json",
+        "sha256": "a1e8015ef68b770c52ff2baa9043cd9a5e42e9bc8b01d60fde57c85cd3819509"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TP53_37C_fold_3.json",
+        "sha256": "a3f13c1835c0c2379cf15b8fc8fbf38106df3200c59347ff5f5a967fb483db9d"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TP53_37C_fold_4.json",
+        "sha256": "4d9c54bbe8f5f1cc0a91946d4e3a3cf12e921e7385ef10dcdf1a22e45a7f358e"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TP53_37C_fold_5.json",
+        "sha256": "45b2010242014024b41e94bf7e461c5d09bcedc066baf27c76e1414e84d049b1"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TTR_37C_fold_1.json",
+        "sha256": "38526c78537accc5f4b29c112738feed8e813a52d953d41c4ab7ba5d810faea1"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TTR_37C_fold_2.json",
+        "sha256": "ef088a9ee3e965873d0456f1622233c79d009ca56fdb8e1b3f96e56b22468a54"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TTR_37C_fold_3.json",
+        "sha256": "db50f7b0067e4abb2af9629d95fc19096261286a9ae1d1b0c54a5ae394e0e63b"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TTR_37C_fold_4.json",
+        "sha256": "8ae0938fb5970bfe62befe3079609aebe9cc87df8a87c888a17e8aa4aa2b9038"
+      },
+      {
+        "path": "study/rna_run/outputs/fold_frames/TTR_37C_fold_5.json",
+        "sha256": "a71ad2e948f92036b5ad5aa07822878356a521f9f90365fbb68153ba629c9b93"
+      },
+      {
+        "path": "study/rna_run/outputs/run_status.json",
+        "sha256": "fb29cc2b80fe1fe3dd44a61bdf499025bb8f2b7cab776395b72227a433c93730"
+      },
+      {
+        "path": "study/rna_run/package_rerun.py",
+        "sha256": "e151c83860266463dda395b66fbfef2455ec98929b9754c0f429fdfe1b6446ff"
+      },
+      {
+        "path": "study/rna_run/plot_rerun.py",
+        "sha256": "de03b5dae9a99606b282519f92aed97684bab9905ad86fd4a90449ee23aac710"
+      },
+      {
+        "path": "study/rna_run/requirements.txt",
+        "sha256": "dcffb1a5a7f3da0a7a3d13a492937b6b91bb33fd00c0a4e627db53933e64ca7c"
+      },
+      {
+        "path": "study/rna_run/resume.log",
+        "sha256": "4eda47022f9c8f98eda21e974e6532e9b5ce463d832b58164c1c84853942cb4a"
+      },
+      {
+        "path": "study/rna_run/run.log",
+        "sha256": "be3b5f5b3325f12fef86dfe086066766131c490531dbb4dbb3e7891f6466c967"
+      },
+      {
+        "path": "study/rna_run/run_request.json",
+        "sha256": "504121793cdac7a38d9cee17138bae6e63898ac0e696a61517b02698f388e877"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Assault_Key_Counts.json",
+        "sha256": "533d85f550f99281ffa4cfb857d2c2def663d23ae4f6671303d237e8d09ba7f6"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Checkpoint_Resume.json",
+        "sha256": "8598c5bf8c079fc8b5b6c3e02e8e27a94cf969a66c513feaa97c34388504858a"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Coupling_Implementation_Checks.json",
+        "sha256": "800e960d67547cce9b56d9abfd7e0a0801bb6bb1f4bfcb5d75618f1980afce88"
+      },
+      {
+        "path": "study/rna_run/source_inspection/FULL_P2P3_INTERVENTION_ASSAULT_REPORT.md",
+        "sha256": "8a908893af4d6896b52ab79631e5d17e63efd40ca2c3a5e9e862e9e57eb47278"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Fresh_Disease_Source_Precheck.json",
+        "sha256": "a395dbc3930ddaaf8c65d62d17d8bffd7b8717b0db6c2a832c10c0eaebde8ea4"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Full_P2P3_Intervention_Reversion_Summary.csv",
+        "sha256": "66e8e3a02eb2e5414a1026fd631be3e32a74b304a84af9202d57309018622064"
+      },
+      {
+        "path": "study/rna_run/source_inspection/MECP2_37_reference_benchmark.json",
+        "sha256": "2c7a7cb64ac1096bcb33e5354b6729c3404859705811b56f2c684cfb1f6340d7"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Notebook_HTML_Export.json",
+        "sha256": "9a94a19a14ff4ed1acb7d33f97528163388646e8f2500b56828ff6214256838b"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Notebook_Kernel_Startup_Attempt.log",
+        "sha256": "97067de6d8a2b6697cea0b8a18b2386715d66fd8a35fdc86f4c47dc5fcbc7a5a"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Package_QA.json",
+        "sha256": "40a63734ce9d7fdc4bbf24fcf5d67278e239d65a019638dc59fe63bac0c6b16b"
+      },
+      {
+        "path": "study/rna_run/source_inspection/Source_Executed_Cross_Pathology_Results.csv",
+        "sha256": "af7c80e0910fd21362b631d5ce6f56f16c7192e1f8a07bc17d4dc1e547fbde73"
+      },
+      {
+        "path": "study/rna_run/source_inspection/original_sources.json",
+        "sha256": "0b10af26337a6234e589313da2956e736a3df3a4cefc4cd4ee025317bb4c6050"
+      },
+      {
+        "path": "study/rna_run/verify_coupled_rerun.py",
+        "sha256": "a80ea78ca5d84e50bd6ae9cfb295a18789b1285c6decd611892894530c85c41c"
+      },
+      {
+        "path": "study/source_aligned_closure.py",
+        "sha256": "996317c1e43390dace46380d77bd6ef64b0f718132af625951fa901301116517"
+      },
+      {
+        "path": "study/source_aligned_runner.py",
+        "sha256": "35cb98f490f184966aa98250f77f8ee4de312f4df57064f088acf1fe55e8d919"
+      },
+      {
+        "path": "study/source_correspondence_execution.log",
+        "sha256": "f2f557cd56224619f43d1f50630990a90fb15af2a876eaaf1ae8cc2564f3755c"
+      },
+      {
+        "path": "study/verify_source_correspondence.py",
+        "sha256": "4f0aee32b6434b1ad55c57441893b5973f0afcf7051343d4fca53ef159ca8d97"
+      },
+      {
+        "path": "study/SHA256SUMS.txt",
+        "sha256": "0c817433f106c00791d2f06827fd038bd17ba8ebc6c54218794fdd5abd50413a"
+      }
+    ]
+  },
+  "framework_source": {
+    "filename": "QTET_QTL_Sphere_Complete_Monograph_Publication_Release_DOI_Final (1)(20261008-230839).pdf",
+    "path": "framework_source/QTET_QTL_Sphere_Complete_Monograph_Publication_Release_DOI_Final (1)(20261008-230839).pdf",
+    "sha256": "1ed25b0dbde910318371399ee23fdef2bbec9aaed33a3c2c96e3c58259759285",
+    "pages": 209,
+    "license_source_PDF_pages": [
+      2,
+      205
+    ]
+  },
+  "supplied_law_and_authored_mathematics": "Preserved; no governing definition changed",
+  "original_research_status": "Retained exactly, including every result and existing biological continuation",
+  "packaging": {
+    "new_RNA_folds": 0,
+    "new_biological_measurements": 0,
+    "new_assets": "Release documentation, citation/rights metadata, file manifest, and portable software verification"
+  },
+  "prior_study_QA": "study/Provenance_QA.json"
+}
