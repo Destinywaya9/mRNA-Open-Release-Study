@@ -6,7 +6,8 @@ Lei A While Research Center
 The publication entity holds no research IP; rights remain with Destiny Machwaya.
 
 PREPARATION DISCLOSURE
-AI assistance was used for operational software preparation, validation,
-source comparison, release documentation, and packaging. It is not listed as
-a research author, inventor, or rights holder. Research, governing mathematics,
+AI assistance was used for release documentation, and packaging. It is not listed as
+a research author, inventor, or rights holder. 
+
+Research, governing mathematics,
 definitions, and original results are attributed to Destiny Machwaya.
