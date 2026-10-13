@@ -10,4 +10,4 @@ AI assistance was used for release documentation, and packaging. It is not liste
 a research author, inventor, or rights holder. 
 
 Research, governing mathematics,
-definitions, and original results are attributed to Destiny Machwaya.
+definitions, and original results are solely the intellectual property of Destiny Machwaya.
